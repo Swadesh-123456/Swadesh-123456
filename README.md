@@ -7,10 +7,10 @@ Computer Science student with a strong interest in software development. Skilled
 ## 💻 Skills
 
 * Python
-* HTML, CSS, JavaScript
+* HTML, CSS, Basic JavaScript
 * Data Structures & OOP
-* NumPy, Pandas, Matplotlib
-* PostgreSQL
+* Django,MySQL,PostgreSQL
+* Git & GitHud,VScode
 
 ## 🔥 Projects
 
