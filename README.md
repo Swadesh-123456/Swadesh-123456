@@ -7,16 +7,15 @@ Computer Science student with a strong interest in software development. Skilled
 ## 💻 Skills
 
 * Python
-* HTML, CSS, Basic JavaScript
-* Data Structures & OOP
-* Django,MySQL,PostgreSQL
+* HTML, CSS
+* Django,MySQL
 * Git & GitHud,VScode
 
 ## 🔥 Projects
 
 ### Job Portal with Recommendation System
 
-* Built using Python and Machine Learning
+* Built using Python 
 * Recommends jobs based on user skills
 * Includes login system and dashboard
 
